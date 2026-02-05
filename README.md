@@ -24,6 +24,6 @@ To build interactive dashboards that help understand sales performance, product 
 - Most customers placed only 1–3 orders, indicating low repeat purchase rates.
 
 ## 🔗 Links  
-- **LinkedIn:** https://linkedin.com/in/hathim-manaf  
-- **Portfolio:**  
-- **Live Tableau Dashboard:** https://public.tableau.com/app/profile/haathim.manaf/viz/SalesCustomerDashboards_17692811875880/CustomerDashboard
+- [LinkedIn](https://linkedin.com/in/hathim-manaf)
+- [Portfolio]()
+- [Live Tableau Dashboard](https://public.tableau.com/app/profile/haathim.manaf/viz/SalesCustomerDashboards_17692811875880/CustomerDashboard)
